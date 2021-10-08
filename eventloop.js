@@ -9,4 +9,7 @@ const foo = () => {
   console.log("End of Program");
 };
 
+console.log("Change After Eslint");
+console.log("I'm new here.");
+
 foo();
